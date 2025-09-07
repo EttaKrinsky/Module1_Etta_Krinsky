@@ -1,0 +1,4 @@
+def hello(Name):
+	print('hello', Name, '!')
+
+hello('EttaKrinsky')
